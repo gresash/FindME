@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FindME</string>
+    <string name="permission_rationale_location">Access to the location service is required to get data about your location and show your current location on the map.</string>
+    <string name="btnLocation">Current location</string>
+    <string name="btnHistory">Location History</string>
+    <string name="permission_rationale_connectivity">It appears you are not connected to the internet.</string>
+    <string name="provider_disabled">Your GPS provider is disabled. Location data unavailable.</string>
+    <string name="no_provider_error">Your location couldn\'t be determined.</string>
+    <string name="button_ok">OK</string>
+    <string name="btnDetails">Click here for details</string>
+    <string name="request_enable_gps">Please enable your GPS to view details about your location.</string>
+    <string name="location_not_determined_yet">Your location services have not yet been able to provide location data. Please try again in a few moments.</string>
+</resources>
