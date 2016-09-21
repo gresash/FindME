@@ -85,7 +85,7 @@ public class MapActivity extends AppCompatActivity implements LocationListener, 
                 Manifest.permission.ACCESS_FINE_LOCATION)
                 == PackageManager.PERMISSION_GRANTED) {
             mMap.setMyLocationEnabled(true);
-            
+
             mLocation = mLocationManager.getLastKnownLocation(LocationManager.GPS_PROVIDER);
             if (mLocation == null) {
                 Criteria c = new Criteria();

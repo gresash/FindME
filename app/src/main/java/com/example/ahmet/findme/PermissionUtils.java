@@ -2,7 +2,6 @@ package com.example.ahmet.findme;
 
 import android.Manifest;
 import android.app.Activity;
-import android.app.AlertDialog;
 import android.content.pm.PackageManager;
 import android.location.LocationManager;
 import android.net.ConnectivityManager;
@@ -84,6 +83,3 @@ abstract class PermissionUtils {
     }
 }
 
-    /**
-     * A dialog that displays a permission denied message.
-     */

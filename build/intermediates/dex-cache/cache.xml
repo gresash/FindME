@@ -1,3 +1,152 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_e89e78958b1dfc68a3287cf6965f408a3f0e245f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-9.4.0_99f6ecdec9435f28dbc62aa583276cc4f7007db8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ahmet\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_3d49304e4a0565b2c437cac66b5cbf7935d51c5a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_c687fa4361f7980c4aaaef325e88733dc78cfc42.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_228a990314109cc106fb2a602e0bb7cbe6fd3454.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_5085780fecc5b03e350d2ca83d6b7f664b01d3cb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_2a59f675bbace9faf45f9684a6016db8e88a2a85.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_f3090209dc40aa2c818a24574eb7f1381f90c06d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b0a30c84379862cc49848f047d0943b44c806751.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.4.0_1c0b9960f721e5c5cbc2a677afacb8960ca63ff0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.4.0_3481d03675c43ccb4eb91e7fe379b945fd31c9fb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_82cccf2aa8946b166d26aa294cc6542fef23ed5d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_1027f229776a85be05c171f5fd0f9ab1941101e0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.4.0_038e19edbc6d250534a642f3a52c42e556bcc39d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_bb67cec9fafa482a9388f5c58fe7ea4bf89194a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.4.0_e4010fc2d2dfc53f0743592411ddd7777749e0b4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_531d07a7614cba6211df5675424f0e17bd93ed88.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_97990251b8bad7ebf3f091c61547118410f843cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.4.0_96ee484b4363812468a267b00fbca00aefc8b35b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_50ee0e4c0fe46d542e8cd3c6a32b8256b094e93b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Ahmet\AndroidStudioProjects\FindME\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_e8367039ee62d6ae741c592b3a25f2e18e4cce33.jar" />
+    </item>
+
+</items>
