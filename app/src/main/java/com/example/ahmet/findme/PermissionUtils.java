@@ -16,10 +16,7 @@ import android.widget.Toast;
  */
 abstract class PermissionUtils {
 
-    /**
-     * Requests the fine location permission. If a rationale with an additional explanation should
-     * be shown to the user, displays a dialog that triggers the request.
-     */
+
     public static final int LOCATION_PERMISSION_REQUEST_CODE = 1;
     private static final String permission=Manifest.permission.ACCESS_FINE_LOCATION;
     public static void checkLocationPermission(final AppCompatActivity activity, int requestId) {
@@ -29,7 +26,7 @@ abstract class PermissionUtils {
                 permission)
                 != PackageManager.PERMISSION_GRANTED) {
             if (ActivityCompat.shouldShowRequestPermissionRationale(activity, permission)) {
-                // Display a dialog with rationale.
+               
 
                 Toast.makeText(activity,R.string.permission_rationale_location,Toast.LENGTH_SHORT).show();
 
