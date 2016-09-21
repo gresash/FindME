@@ -20,6 +20,5 @@ public class LocationHistory extends AppCompatActivity {
         TextView txtHistory=(TextView) findViewById(R.id.txtHistory);
         txtHistory.setText(data);
 
-
     }
 }
